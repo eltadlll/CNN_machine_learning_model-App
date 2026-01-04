@@ -1,12 +1,12 @@
-🧠 Convolutional Neural Network (CNN) – Image Classification Pipeline
-📌 Project Overview
+# 🧠 Convolutional Neural Network (CNN) – Image Classification Pipeline
+## 📌 Project Overview
 
-This project implements a simple Convolutional Neural Network (CNN) to perform image classification using supervised learning.
-The goal of the project is to demonstrate a complete deep learning pipeline, from data preprocessing to model training and evaluation, using a clean and interpretable CNN architecture.
+### This project implements a simple Convolutional Neural Network (CNN) to perform image classification using supervised learning.
+### The goal of the project is to demonstrate a complete deep learning pipeline, from data preprocessing to model training and evaluation, using a clean and interpretable CNN architecture.
 
-This project is designed as a foundational deep learning portfolio piece, focusing on correctness, clarity, and best practices rather than excessive complexity.
+### This project is designed as a foundational deep learning portfolio piece, focusing on correctness, clarity, and best practices rather than excessive complexity.
 
-🛠 Tools & Technologies
+### 🛠 Tools & Technologies
 
 Python
 
